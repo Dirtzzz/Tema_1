@@ -25,8 +25,6 @@
 ## Лабораторная работа №1.1
 ### Результат:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.1.png)
-Текст в файле:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.1(1).png)
 
 ## Лабораторная работа №1.2
 ### Результат:
@@ -38,60 +36,48 @@
 
 ## Лабораторная работа №1.4
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.5
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.6
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.7
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.8
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.9
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.10
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.11
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.12
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.13
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.14
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
 
 ## Лабораторная работа №1.15
 ### Результат:
-Исходный текст:
 ![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
