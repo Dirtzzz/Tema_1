@@ -44,7 +44,7 @@
 
 ## Лабораторная работа №1.6 Подключение к удаленному репозиторию
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.6.png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/push%20pull.png)
 
 ## Лабораторная работа №1.7 Ветвление
 ### Результат:
