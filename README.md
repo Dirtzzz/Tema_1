@@ -22,62 +22,62 @@
 | Задание 15 | + |
 
 
-## Лабораторная работа №1.1
+## Лабораторная работа №1.1 Установка
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.1.png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.1.png)
 
-## Лабораторная работа №1.2
+## Лабораторная работа №1.2 Настройка
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.2.png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.2.png)
 
-## Лабораторная работа №1.3
+## Лабораторная работа №1.3 Создание нового репозитория
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.3(z).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.3.png)
 
-## Лабораторная работа №1.4
+## Лабораторная работа №1.4 Подготовка файлов
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.4.png)
 
-## Лабораторная работа №1.5
+## Лабораторная работа №1.5 Фиксация изменений
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.5.png)
 
-## Лабораторная работа №1.6
+## Лабораторная работа №1.6 Подключение к удаленному репозиторию
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.6.png)
 
-## Лабораторная работа №1.7
+## Лабораторная работа №1.7 Ветвление
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.7.png)
 
-## Лабораторная работа №1.8
+## Лабораторная работа №1.8 Особенности применения «Фетч»
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.8.png)
 
-## Лабораторная работа №1.9
+## Лабораторная работа №1.9 Удаление файлов, веток, локальных и удалённых репозиториев
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.9.png)
 
-## Лабораторная работа №1.10
+## Лабораторная работа №1.10 Отслеживание изменений в коммитах
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.10.png)
 
-## Лабораторная работа №1.11
+## Лабораторная работа №1.11 Возвращение файла к предыдущему (определенному) состоянию
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.11.png)
 
-## Лабораторная работа №1.12
+## Лабораторная работа №1.12 Возвращение к предыдущему коммиту
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.12.png)
 
-## Лабораторная работа №1.13
+## Лабораторная работа №1.13 Исправление коммита
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.13.png)
 
-## Лабораторная работа №1.14
+## Лабораторная работа №1.14 Разрешение конфликтов при слиянии
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.14.png)
 
-## Лабораторная работа №1.15
+## Лабораторная работа №1.15 Настройка .gitignore
 ### Результат:
-![Меню](https://github.com/Dirtzzz/Tema_7/blob/main/7.5%20(0).png)
+![Меню](https://github.com/Dirtzzz/Tema_1/blob/main/1.15.png)
